@@ -1,0 +1,6 @@
+dane/proba_A.log:ERROR;A03;niekompletny_odczyt
+dane/proba_A.log:ERROR;A05;brak_probki
+dane/proba_B.log:ERROR;B02;blad_kalibracji
+dane/proba_D.log:ERROR;D02;brak_sygnalu
+dane/proba_D.log:ERROR;D03;przekroczony_zakres
+dane/proba_D.log:ERROR;D05;zla_czestotliwosc
